@@ -1,0 +1,16 @@
+{
+  "@context": "",
+  "@type": "SoftwareSourceCode",
+  "name": "Seminar3",
+  "version": "1.0.0",
+  "description": "PROV Diagram",
+  "license": "GNL",
+  "codeRepository": "https://github.com/username/repo",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Carolina",
+      "familyName": "Garza Bravo",
+    }
+  ]
+}
