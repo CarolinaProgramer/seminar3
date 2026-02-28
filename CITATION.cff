@@ -1,1 +1,10 @@
-
+cff-version: 1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Garza Bravo"
+  given-names: "Carolina"
+title: "seminar3"
+version: 1.0.0
+doi: 
+date-released: 2026-02-27
+url: "https://github.com/CarolinaProgramer/seminar3"
